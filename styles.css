@@ -1,0 +1,18 @@
+.hyperlink {
+    font-family: cursive;
+    color: rgb(43, 112, 129);
+}
+
+h1 {
+    font-family: cursive;
+    color: rgb(43, 112, 129);
+    text-align: center;
+}
+
+.example-image {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
