@@ -4,9 +4,13 @@
 }
 
 h1 {
-    font-family: cursive;
+    font-family: 'Courier New', Sans-serif;
     color: rgb(43, 112, 129);
     text-align: center;
+}
+
+body {
+    color: rgb(43, 112, 129);
 }
 
 .example-image {
